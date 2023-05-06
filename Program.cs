@@ -10,6 +10,7 @@ namespace DATE_TIME_Calculator
     {
         static void Main(string[] args)
         {
+            #this is a comment;
             DateTime today = DateTime.Now;
             Console.BackgroundColor = ConsoleColor.White;
             Console.Clear();
